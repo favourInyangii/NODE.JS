@@ -6,7 +6,7 @@ let transporter = nodemailer.createTransport({
     service: 'Gmail', // Use your email service provider here (e.g., 'Gmail', 'Yahoo', etc.)
     auth: {
         user: 'loladeajay@gmail.com', // Your email address
-        pass: 'magnificoman123' // Your email password or app-specific password
+        pass: 'magnificoman123' // Your email password or app-specific password i need to get code from gmail
     }
 });
 
